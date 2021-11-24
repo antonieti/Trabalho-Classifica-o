@@ -1,3 +1,6 @@
 *.json
 ./.ipynb_checkpoints
 *.zip
+random_result.csv
+svm_result.csv
+knn_result.csv
